@@ -1,2 +1,2 @@
 # DPDM69
-![Uploading image.png…]()
+![Model Preview](images/model-preview.png)
